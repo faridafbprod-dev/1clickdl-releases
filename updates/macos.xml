@@ -7,17 +7,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Official 1ClickDL updates for macOS on Apple Silicon.</description>
     <language>en</language>
     <item>
-      <title>1ClickDL 1.13.0</title>
-      <pubDate>Tue, 13 Oct 2026 05:50:46 +0000</pubDate>
-      <sparkle:version>21</sparkle:version>
-      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+      <title>1ClickDL 1.13.1</title>
+      <pubDate>Tue, 13 Oct 2026 10:04:00 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description><![CDATA[Google account sign-in, Free and Pro plans, a browser extension, and verified in-app updates. Initial installers are not Apple notarized; see the installation guide at https://1clickdl.com/en/guide/.]]></description>
-      <enclosure url="https://github.com/faridafbprod-dev/1clickdl-releases/releases/download/v1.13.0/1ClickDL-1.13.0-macos-arm64.zip" sparkle:edSignature="FatB0dPGJ7i+X8Nw6fn/InX2sECzirAZ1w7XMsFUu6eUWEtmysF9/y+qJmHXvoouoh4QjaO992bQLVpAO8yRCQ==" length="110163081" type="application/octet-stream"></enclosure>
+      <description><![CDATA[Clean Creator - Title.mp4 filenames, safe collision numbering, and free-access promo redemption from My account. Initial installers are not Apple notarized; installation guide: https://1clickdl.com/en/guide/.]]></description>
+      <enclosure url="https://github.com/faridafbprod-dev/1clickdl-releases/releases/download/v1.13.1/1ClickDL-1.13.1-macos-arm64.zip" sparkle:edSignature="xqesgVNiqFtmUjqMDVQP2XJs/6BtAG1YPQxRJDKjhkn+WPX8pbKQebHWk9b5ANlW877pCgZhbHnnBVuJNHk2CA==" length="110176628" type="application/octet-stream"></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: VWiV6pW7bGInFOrpPe/BkJGDruQJwcI8Miw5H3M3dh4DVqhQWl0XoFOklwhxjWuiczHiASlzxgI3HYvbGZEgCA==
-length: 1539
+edSignature: ETra6VaV6SLc0xpUsMV7QLEVLNQPzH05rOG5U29fe/lKpGpxeoYcr2+GZJmmKnabDOJgbcmxUQombRP7Vp1tAg==
+length: 1548
 -->
