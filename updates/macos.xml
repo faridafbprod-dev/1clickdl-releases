@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>1ClickDL — macOS updates</title>
-    <link>https://1clickdl.com/</link>
-    <description>Official 1ClickDL updates for macOS on Apple Silicon.</description>
-    <language>en</language>
-    <item>
-      <title>1ClickDL 1.14.1</title>
-      <pubDate>Wed, 14 Oct 2026 10:55:42 +0000</pubDate>
-      <sparkle:version>24</sparkle:version>
-      <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description><![CDATA[Fixes an unexpected quit during browser extension setup. The Mac assistant now copies the Extensions address and opens the browser, with explicit paste instructions. Settings, downloads and the local YouTube session are preserved. Windows remains 1.14.0. Initial installers are not Apple notarized; installation guide: https://1clickdl.com/en/guide/.]]></description>
-      <enclosure url="https://github.com/faridafbprod-dev/1clickdl-releases/releases/download/v1.14.1/1ClickDL-1.14.1-macos-arm64.zip" sparkle:edSignature="W3rrwcnSyuQUlRwgW0FL7UYaN1ZrN1+vl6+pWGQ3kCQpneK6615qkw6A/Vb5ICmlcaQsZT5hWcp/OJ4lTkJRAQ==" length="110259098" type="application/octet-stream"></enclosure>
-    </item>
-  </channel>
-</rss><!-- sparkle-signatures:
-edSignature: O18ZEXyG1IcgDesxXni+OqwImNojEEYDh63OH3hrpVy3XT7SRwP9AywnOP4Is1H7K0XAgfGbmB5Hy+YCi5+VAw==
-length: 1690
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>1ClickDL — macOS updates</title><link>https://1clickdl.com/</link><description>Official 1ClickDL updates for macOS on Apple Silicon.</description><language>en</language><item><title>1ClickDL 1.15.0</title><pubDate>Fri, 16 Oct 2026 14:49:43 GMT</pubDate><sparkle:version>25</sparkle:version><sparkle:shortVersionString>1.15.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><description><![CDATA[Quick access from Safari or any browser: menu-bar link entry, queue count, destination selection and batch start/pause. Optional configurable Command-Shift-V adds the copied link to the queue. No clipboard polling. Enable in Settings > Quick access. Existing settings, accounts, local YouTube session and downloads are preserved. Windows remains 1.14.0. Initial installer is not Apple notarized; guide: https://1clickdl.com/en/guide/.]]></description><enclosure url="https://github.com/faridafbprod-dev/1clickdl-releases/releases/download/v1.15.0/1ClickDL-1.15.0-macos-arm64.zip" sparkle:edSignature="Ve5+c09z8h9vpgubGupJG9gbhSIwswgHSCLyRgQnSo16jnHLijhFwqt3mapDAyprSmwzZfK7Yveyt+SFVclrDg==" length="110348360" type="application/octet-stream"></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: qSjBYg8KVMZVsc6edgXT2KZRXqM3G1xNdyHVqGj3hHQP3ktSCKiUqgfn/ELqIcC86pyVGFq7s3g++DzZrP9XBw==
+length: 1679
 -->
